@@ -1,0 +1,13 @@
+{
+  "name": "Aviral Soni",
+  "location": "Delhi, India",
+  "bio": "An aspiring web developer who is an undergrad. Currently learning blockchain development. Let's connect!",
+  "avatar": "https://avatars.githubusercontent.com/u/110279414?s=400&u=59b9b107e26847e100788be4fea5c4586636e72a&v=4",
+  
+  "portfolio": "https://github.com/A-viralS",
+  "skills": ["HTML", "CSS", "JavaScript", "React", "Solidity", "Tailwind CSS", "Bootstrap",  "DSA", "Git/GitHub"],
+  "social": {
+    "GitHub": "https://github.com/A-viralS",
+    "LinkedIn": "https://www.linkedin.com/in/aviral-soni-369549244/"
+  }
+}
